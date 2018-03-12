@@ -1,0 +1,7 @@
+c:\Users\opilane\documents\visual studio 2017\Projects\Caesars\Tunnitöö-Caesar\bin\Debug\Tunnitöö-Caesar.exe.config
+c:\Users\opilane\documents\visual studio 2017\Projects\Caesars\Tunnitöö-Caesar\bin\Debug\Tunnitöö-Caesar.exe
+c:\Users\opilane\documents\visual studio 2017\Projects\Caesars\Tunnitöö-Caesar\bin\Debug\Tunnitöö-Caesar.pdb
+c:\Users\opilane\documents\visual studio 2017\Projects\Caesars\Tunnitöö-Caesar\obj\Debug\Tunnitöö-Caesar.csprojResolveAssemblyReference.cache
+c:\Users\opilane\documents\visual studio 2017\Projects\Caesars\Tunnitöö-Caesar\obj\Debug\Tunnitöö-Caesar.csproj.CoreCompileInputs.cache
+c:\Users\opilane\documents\visual studio 2017\Projects\Caesars\Tunnitöö-Caesar\obj\Debug\Tunnitöö-Caesar.exe
+c:\Users\opilane\documents\visual studio 2017\Projects\Caesars\Tunnitöö-Caesar\obj\Debug\Tunnitöö-Caesar.pdb

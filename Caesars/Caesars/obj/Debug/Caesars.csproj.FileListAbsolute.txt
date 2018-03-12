@@ -1,0 +1,7 @@
+c:\users\opilane\documents\visual studio 2017\Projects\Caesars\Caesars\bin\Debug\Caesars.exe.config
+c:\users\opilane\documents\visual studio 2017\Projects\Caesars\Caesars\bin\Debug\Caesars.exe
+c:\users\opilane\documents\visual studio 2017\Projects\Caesars\Caesars\bin\Debug\Caesars.pdb
+c:\users\opilane\documents\visual studio 2017\Projects\Caesars\Caesars\obj\Debug\Caesars.csprojResolveAssemblyReference.cache
+c:\users\opilane\documents\visual studio 2017\Projects\Caesars\Caesars\obj\Debug\Caesars.csproj.CoreCompileInputs.cache
+c:\users\opilane\documents\visual studio 2017\Projects\Caesars\Caesars\obj\Debug\Caesars.exe
+c:\users\opilane\documents\visual studio 2017\Projects\Caesars\Caesars\obj\Debug\Caesars.pdb
